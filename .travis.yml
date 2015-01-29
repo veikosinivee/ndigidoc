@@ -1,2 +1,6 @@
 language: csharp
-solution: NDigiDoc.sln
+solution: ./NDigiDoc.sln
+
+script:
+  xbuild ./NDigiDoc.sln
+
