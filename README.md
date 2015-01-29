@@ -8,7 +8,7 @@ CDOC format is based on XML-ENC specification.
 Build status
 ------------
   * AppVeyor - [![Build Status](https://ci.appveyor.com/api/projects/status/github/veikosinivee/ndigidoc?branch=master)
-  * Coverity - [![Coverity status](https://scan.coverity.com/projects/931/badge.svg?flat=1)](https://scan.coverity.com/projects/931/)
+  * Coverity - [![Coverity status](https://scan.coverity.com/projects/4073/badge.svg?flat=1)](https://scan.coverity.com/projects/4073/)
 
 
 You need the following dependent librarys to build ndigidoc:
