@@ -7,7 +7,7 @@ CDOC format is based on XML-ENC specification.
 
 Build status
 ------------
-  * AppVeyor - [![Build Status](https://ci.appveyor.com/api/projects/status/github/veikosinivee/ndigidoc?branch=master)
+  * AppVeyor - [![Build Status](https://ci.appveyor.com/api/projects/status/github/veikosinivee/ndigidoc?branch=master)](https://ci.appveyor.com/project/veikosinivee/ndigidoc)
   * Coverity - [![Coverity status](https://scan.coverity.com/projects/4073/badge.svg?flat=1)](https://scan.coverity.com/projects/4073/)
 
 
